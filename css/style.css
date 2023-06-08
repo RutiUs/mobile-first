@@ -246,7 +246,7 @@ title::after {
   }
 }
 .head {
-  background-image: url(../images/img/bg-head.jpg");
+  background-image: url("../mobile first/images/img/bg-head.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
